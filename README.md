@@ -91,4 +91,4 @@ This repository tracks all historical deals for **Funding Your Trades** publishe
 
 ---
 
-Last synced: 2026-10-29T02:42:51Z (auto, hourly)
+Last synced: 2026-10-29T06:32:25Z (auto, hourly)
