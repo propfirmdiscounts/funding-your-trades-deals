@@ -1,31 +1,50 @@
-# Funding Your Trades - Discount Codes & Deal History
+# Funding Your Trades Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-22, the verified Funding Your Trades discount code is **PFD** — up to 2% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/funding-your-trades/
+> ⚠️ Before You Judge Us by One Platform
+> At FYT, our mission is to help traders access funded capital through transparent evaluation and funding programs. Since launch, we’ve supported traders worldwide, processed rewards across multiple countries, and built a strong, growing community.
+> We encourage every trader to take time to read our rules, explore our website, join our community, and ask questions before deciding. Recently, we’ve faced challenges with review moderation on certain platforms, meaning some genuine reviews may not appear right away. While we respect each platform’s policies, we believe no single source should define a company.
+> That’s why we invite you to explore our website, social media, Discord, trader interviews, payout reports, and educational content to form your own opinion. Most importantly, if you have doubts, you can connect directly with funded FYT traders and hear their experiences firsthand.
+>
+> — Funding Your Trades, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/fundingyourtrades.com)
 
-**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+- Code: PFD
+- Discount: Up to 2% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-22
+- Trustpilot: 3/5 (128 reviews)
+- Activate: https://propfirmdiscount.com/go/fundingyourtrades
+- Firm page: https://propfirmdiscount.com/prop-firm/funding-your-trades/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **PFD** to get **2% off** on Funding Your Trades challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Funding Your Trades evaluation accounts.
+## Current Funding Your Trades deal: 45% Off Halloween Challenges With BOGO Instantly
+
+- Published: 2026-10-22
+- Offer ends: Limited time
+- Offer: 45% off
+- Scope: Halloween Promotion, Bogo Instantly, First Reward In 24 Hours, Free Evaluation Reset, Reward Split, Cashback, Daily Drawdown Option, Reward Points
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Deal page: https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/
+
+## Funding Your Trades discount code FAQ
+
+**What is the Funding Your Trades discount code?**
+
+PFD. It is verified by PropFirmDiscount.com and takes up to 2% off Funding Your Trades challenges and accounts.
+
+**Does the Funding Your Trades discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current Funding Your Trades deal?**
+
+**45% Off Halloween Challenges With BOGO Instantly** — published 2026-10-22. Offer ends: Limited time. The offer is 45% off.
 
 ---
 
-## Latest Deal
-
-### Funding Your Trades - 45% Off Halloween Challenges With BOGO Instantly
-
-**Published:** 2026-10-22  
-**Offer ends:** Limited time  
-**Discount:** 45% off  
-**Scope:** Halloween Promotion, Bogo Instantly, First Reward In 24 Hours, Free Evaluation Reset, Reward Split, Cashback, Daily Drawdown Option, Reward Points  
-
-**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
-
-**Deal page:** https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-45-off-halloween-bogo/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **41**
 
@@ -82,19 +101,20 @@ Total deals tracked: **41**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **Funding Your Trades** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **Funding Your Trades** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/funding-your-trades/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/funding-your-trades/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
