@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13163,
+    "title": "Diwali 45% Off + Buy 1 Get 3 Accounts",
+    "offer_type": "coupon",
+    "discount_value": "45%",
+    "scope": [
+      "Challenges - Buy 1, Trade 3 Accounts"
+    ],
+    "date_published": "2026-11-05",
+    "date_exp": "2026-11-12",
+    "event": "Diwali",
+    "last_verified": "2026-11-05",
+    "post_url": "https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/",
+    "prop_firm": "Funding Your Trades",
+    "prop_firm_slug": "funding-your-trades",
+    "standing_code": "PFD",
+    "standing_discount": "2%",
+    "activation_link": "https://propfirmdiscount.com/go/fundingyourtrades",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/funding-your-trades/"
+  },
+  {
     "deal_id": 13010,
     "title": "45% Off Halloween Challenges With BOGO Instantly",
     "offer_type": "coupon",
