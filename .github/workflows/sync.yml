@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: fundingyourtrades
+  HF_NAMESPACE: prop-firm
   FIRM_SLUG: funding-your-trades
   DEALSTORE_ID: 162
   FIRM_NAME: Funding Your Trades
