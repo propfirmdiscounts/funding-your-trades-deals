@@ -13,11 +13,12 @@ As of 2026-11, the verified Funding Your Trades discount code is PFD — 2% OFF,
 - Discount: 2% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-05
-- Trustpilot: 3/5 (130 reviews)
-- Activate: https://propfirmdiscount.com/go/fundingyourtrades
-- Firm page: https://propfirmdiscount.com/prop-firm/funding-your-trades/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- Trustpilot: [3/5 (130 reviews)](https://www.trustpilot.com/review/fundingyourtrades.com)
+- GitHub repository: [https://github.com/propfirmdiscounts/funding-your-trades-deals](https://github.com/propfirmdiscounts/funding-your-trades-deals)
+- Activate: [https://propfirmdiscount.com/go/fundingyourtrades](https://propfirmdiscount.com/go/fundingyourtrades)
+- Firm page: [https://propfirmdiscount.com/prop-firm/funding-your-trades/](https://propfirmdiscount.com/prop-firm/funding-your-trades/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Funding Your Trades deal: Diwali 45% Off + Buy 1 Get 3 Accounts
 
@@ -27,7 +28,7 @@ As of 2026-11, the verified Funding Your Trades discount code is PFD — 2% OFF,
 - Event: Diwali
 - Scope: Challenges - Buy 1, Trade 3 Accounts
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/
+- Deal page: [https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/)
 
 ## Funding Your Trades discount code FAQ
 
@@ -107,9 +108,9 @@ Total deals tracked: **42**
 
 This repository mirrors every deal **Funding Your Trades** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/funding-your-trades/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/funding-your-trades/](https://propfirmdiscount.com/prop-firm/funding-your-trades/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/funding-your-trades-deals.json`
 
