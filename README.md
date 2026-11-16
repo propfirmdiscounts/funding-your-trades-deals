@@ -1,6 +1,6 @@
 # Funding Your Trades - Discount Codes & Deal History
 
-As of November 2026, the verified Funding Your Trades discount code is PFD — 2% OFF, which can be applied on the checkout page anytime. Its current deals run their own limited-time campaign codes.
+As of November 2026, the verified Funding Your Trades discount code is PFD — 2% OFF, which can be applied on the checkout page anytime. The newest is "Diwali 45% Off + Buy 1 Get 3 Accounts".
 
 > ⚠️ Before You Judge Us by One Platform
 > At FYT, our mission is to help traders access funded capital through transparent evaluation and funding programs. Since launch, we’ve supported traders worldwide, processed rewards across multiple countries, and built a strong, growing community.
@@ -14,11 +14,11 @@ As of November 2026, the verified Funding Your Trades discount code is PFD — 2
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-05
 - Trustpilot: [3/5 (130 reviews)](https://www.trustpilot.com/review/fundingyourtrades.com)
-- GitHub repository: [https://github.com/propfirmdiscounts/funding-your-trades-deals](https://github.com/propfirmdiscounts/funding-your-trades-deals)
-- Activate: [https://propfirmdiscount.com/go/fundingyourtrades](https://propfirmdiscount.com/go/fundingyourtrades)
-- Firm page: [https://propfirmdiscount.com/prop-firm/funding-your-trades/](https://propfirmdiscount.com/prop-firm/funding-your-trades/)
-- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
+- GitHub repository: [Funding Your Trades Deals Repository](https://github.com/propfirmdiscounts/funding-your-trades-deals)
+- Activate: [Activate Funding Your Trades Discount Code](https://propfirmdiscount.com/go/fundingyourtrades)
+- Firm page: [Funding Your Trades Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/funding-your-trades/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [Funding Your Trades API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Funding Your Trades deal: Diwali 45% Off + Buy 1 Get 3 Accounts
 
@@ -28,7 +28,7 @@ As of November 2026, the verified Funding Your Trades discount code is PFD — 2
 - Event: Diwali
 - Scope: Challenges - Buy 1, Trade 3 Accounts
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/)
+- Deal page: [Funding Your Trades Deal Page](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/)
 
 ## Funding Your Trades discount code FAQ
 
@@ -108,9 +108,9 @@ Total deals tracked: **42**
 
 This repository mirrors every deal **Funding Your Trades** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
-- Prop firm profile: [https://propfirmdiscount.com/prop-firm/funding-your-trades/](https://propfirmdiscount.com/prop-firm/funding-your-trades/)
-- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [Funding Your Trades Profile](https://propfirmdiscount.com/prop-firm/funding-your-trades/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/funding-your-trades-deals.json`
 
@@ -153,4 +153,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
