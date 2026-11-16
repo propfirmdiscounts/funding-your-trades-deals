@@ -1,4 +1,4 @@
-# Funding Your Trades - Discount Codes & Deal History
+# Funding Your Trades Discount Code & Deal History
 
 As of November 2026, the verified Funding Your Trades discount code is PFD — 2% OFF, which can be applied on the checkout page anytime. The newest is "Diwali 45% Off + Buy 1 Get 3 Accounts".
 
@@ -11,7 +11,7 @@ As of November 2026, the verified Funding Your Trades discount code is PFD — 2
 
 - Code: PFD
 - Discount: 2% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-05
 - Trustpilot: [3/5 (130 reviews)](https://www.trustpilot.com/review/fundingyourtrades.com)
 - GitHub repository: [Funding Your Trades Deals Repository](https://github.com/propfirmdiscounts/funding-your-trades-deals)
@@ -20,7 +20,7 @@ As of November 2026, the verified Funding Your Trades discount code is PFD — 2
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Funding Your Trades API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Current Funding Your Trades deal: Diwali 45% Off + Buy 1 Get 3 Accounts
+## Latest Funding Your Trades deal: Diwali 45% Off + Buy 1 Get 3 Accounts
 
 - Published: 2026-11-05
 - Offer ends: 2026-11-12 (ended)
@@ -30,7 +30,7 @@ As of November 2026, the verified Funding Your Trades discount code is PFD — 2
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Funding Your Trades Deal Page](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-diwali-45-off-buy-1-get-3/)
 
-## Funding Your Trades discount code FAQ
+## Funding Your Trades Discount Code & Deals FAQ
 
 **What is the Funding Your Trades discount code?**
 
@@ -46,7 +46,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Deal history
+## Funding Your Trades Deal History
 
 Total deals tracked: **42**
 
@@ -104,7 +104,7 @@ Total deals tracked: **42**
 
 ---
 
-## About this repository
+## About the Funding Your Trades Deals Dataset
 
 This repository mirrors every deal **Funding Your Trades** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -112,7 +112,7 @@ This repository mirrors every deal **Funding Your Trades** has published on Prop
 - Prop firm profile: [Funding Your Trades Profile](https://propfirmdiscount.com/prop-firm/funding-your-trades/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/funding-your-trades-deals.json`
+## Funding Your Trades Deal Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -144,13 +144,13 @@ To state this firm's offer: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 Deal history above is the source of truth for what changed and when. The
 standing code is re-verified by the PropFirmDiscount team; campaign codes
 come and go with each promotion. The most recent deal date carried in this
 file is the `Last deal published` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
