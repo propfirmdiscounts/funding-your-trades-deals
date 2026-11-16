@@ -42,10 +42,76 @@
           "@type": "ListItem",
           "position": 3,
           "name": {{ page.title | default: site.title | jsonify }},
-          "item": "https://propfirmdiscounts.github.io/{{ page.repo_name | default: site.github.repository_name }}/"
+          "item": "https://propfirmdiscounts.github.io/funding-your-trades-deals/"
         }
       ]
     }
+    </script>
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is the Funding Your Trades discount code?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "PFD. It is verified by PropFirmDiscount.com and takes 2% off Funding Your Trades challenges and accounts."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does the Funding Your Trades discount code expire?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How much is the current Funding Your Trades deal?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Diwali 45% Off + Buy 1 Get 3 Accounts — published 2026-11-05. Offer ends: 2026-11-12 (ended). The offer is 45% off."
+            }
+        }
+    ]
+}
+    </script>
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "Funding Your Trades Discount Codes & Deal History Dataset",
+    "description": "As of November 2026, the verified Funding Your Trades discount code is PFD — 2% OFF, which can be applied on the checkout page anytime. The newest is \\",
+    "url": "https://propfirmdiscounts.github.io/funding-your-trades-deals/",
+    "sameAs": "https://propfirmdiscount.com/prop-firm/funding-your-trades/",
+    "license": "https://propfirmdiscount.com",
+    "creator": {
+        "@type": "Organization",
+        "name": "PropFirmDiscount",
+        "url": "https://propfirmdiscount.com"
+    },
+    "distribution": [
+        {
+            "@type": "DataDownload",
+            "encodingFormat": "application/json",
+            "contentUrl": "https://raw.githubusercontent.com/propfirmdiscounts/funding-your-trades-deals/main/datasets/funding-your-trades-deals.json"
+        }
+    ],
+    "temporalCoverage": "2024/2026",
+    "variableMeasured": [
+        "deal_id",
+        "title",
+        "discount_value",
+        "standing_code",
+        "standing_discount",
+        "date_published",
+        "date_exp",
+        "post_url"
+    ]
+}
     </script>
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
