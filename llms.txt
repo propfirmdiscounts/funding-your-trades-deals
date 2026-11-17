@@ -1,4 +1,4 @@
-# Funding Your Trades Discount Codes
+# Funding Your Trades Discount Code & Deals History
 
 This dataset tracks historical deal observations for Funding Your Trades from PropFirmDiscount.com.
 

@@ -1,4 +1,4 @@
-# Funding Your Trades Discount Code & Deal History
+# Funding Your Trades Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Funding Your Trades discount code is PFD — 2% OFF, which can be applied on the checkout page anytime. The newest is "35% Off Plus BOGO Instantly".
 
@@ -14,7 +14,7 @@ As of November 2026, the verified Funding Your Trades discount code is PFD — 2
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-16
 - Trustpilot: [3/5 (132 reviews)](https://www.trustpilot.com/review/fundingyourtrades.com)
-- GitHub repository: [Funding Your Trades Deals Repository](https://github.com/propfirmdiscounts/funding-your-trades-deals)
+- GitHub repository: [Funding Your Trades Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/funding-your-trades-deals)
 - Activate: [Activate Funding Your Trades Discount Code](https://propfirmdiscount.com/go/fundingyourtrades)
 - Firm page: [Funding Your Trades Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/funding-your-trades/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -30,7 +30,7 @@ As of November 2026, the verified Funding Your Trades discount code is PFD — 2
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Funding Your Trades Deal Page](https://propfirmdiscount.com/deals/funding-your-trades/funding-your-trades-black-friday-35-off-bogo/)
 
-## Funding Your Trades Discount Code & Deals FAQ
+## Funding Your Trades Discount Code & Deals History FAQ
 
 **What is the Funding Your Trades discount code?**
 
@@ -46,7 +46,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Funding Your Trades Deal History
+## Funding Your Trades Deals History
 
 Total deals tracked: **43**
 
@@ -105,7 +105,7 @@ Total deals tracked: **43**
 
 ---
 
-## About the Funding Your Trades Deals Dataset
+## About the Funding Your Trades Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Funding Your Trades** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -113,7 +113,7 @@ This repository mirrors every deal **Funding Your Trades** has published on Prop
 - Prop firm profile: [Funding Your Trades Profile](https://propfirmdiscount.com/prop-firm/funding-your-trades/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Funding Your Trades Deal Dataset: Field Definitions
+## Funding Your Trades Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
