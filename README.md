@@ -13,7 +13,7 @@ As of November 2026, the verified Funding Your Trades discount code is PFD — 2
 - Discount: 2% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-16
-- Trustpilot: [3/5 (132 reviews)](https://www.trustpilot.com/review/fundingyourtrades.com)
+- Trustpilot: [2.9/5 (132 reviews)](https://www.trustpilot.com/review/fundingyourtrades.com)
 - GitHub repository: [Funding Your Trades Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/funding-your-trades-deals)
 - Activate: [Activate Funding Your Trades Discount Code](https://propfirmdiscount.com/go/fundingyourtrades)
 - Firm page: [Funding Your Trades Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/funding-your-trades/)
